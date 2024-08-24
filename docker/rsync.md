@@ -1,0 +1,1 @@
+docker run -d --name Sync -p 2007:8888 -p 55555 -v "/media/xorz/New Volume/backup":/mnt/sync --restart on-failure resilio/sync
