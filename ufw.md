@@ -1,7 +1,3 @@
-Sure! Here's a concise and well-organized **`ufw.md`** documentation file that you can add to your Git repository. It includes **basic UFW commands**, how to **enable logging**, and how to **log only incoming traffic**.
-
----
-
 ### 📄 `ufw.md` — UFW (Uncomplicated Firewall) Cheat Sheet
 
 ````markdown
